@@ -1,3 +1,8 @@
+
+# Welcome to rvgws's first web page on GitHub.
+
+### Feel free to bookmark this page to follow the project as it evolves.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rvgws0/discuss.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
